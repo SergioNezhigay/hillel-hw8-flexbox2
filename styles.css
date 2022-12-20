@@ -583,7 +583,6 @@ body {
 
 .parent:hover > ul {
   display: block;
-
   position: absolute;
 }
 
@@ -599,6 +598,7 @@ body {
   display: flex;
   align-items: center;
   background-color: #ffdbd2ed;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
 }
 
 ul {
@@ -614,13 +614,23 @@ ul ul ul {
   margin-left: 1px;
 }
 
+.nav li {
+  transition: background-color 250ms ease-in-out;
+}
+
 .nav li:hover {
   background-color: #ff6236;
   cursor: pointer;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
 }
 
 .nav .parent li:hover {
   background-color: #ff6236;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+.nav li > a {
+  transition: color 250ms ease-in-out;
 }
 
 .nav li:hover > a {
