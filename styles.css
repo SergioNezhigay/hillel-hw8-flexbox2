@@ -610,12 +610,12 @@ ul ul ul {
   margin-left: 1px;
 }
 
-li:hover {
+.nav li:hover {
   background-color: #ff6236;
   cursor: pointer;
 }
 
-.parent li:hover {
+.nav .parent li:hover {
   background-color: #ff6236;
 }
 
