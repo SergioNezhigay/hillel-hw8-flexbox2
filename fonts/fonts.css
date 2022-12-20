@@ -1,0 +1,117 @@
+@font-face {
+    font-family: 'Graphik LC Web';
+    src: url('GraphikLCWeb-Medium.eot');
+    src: url('GraphikLCWeb-Medium.eot?#iefix') format('embedded-opentype'),
+        url('GraphikLCWeb-Medium.woff2') format('woff2'),
+        url('GraphikLCWeb-Medium.woff') format('woff'),
+        url('GraphikLCWeb-Medium.ttf') format('truetype'),
+        url('GraphikLCWeb-Medium.svg#GraphikLCWeb-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik LCG';
+    src: url('GraphikLCG-Bold.eot');
+    src: url('GraphikLCG-Bold.eot?#iefix') format('embedded-opentype'),
+        url('GraphikLCG-Bold.woff2') format('woff2'),
+        url('GraphikLCG-Bold.woff') format('woff'),
+        url('GraphikLCG-Bold.ttf') format('truetype'),
+        url('GraphikLCG-Bold.svg#GraphikLCG-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik LCG';
+    src: url('GraphikLCG-Medium.eot');
+    src: url('GraphikLCG-Medium.eot?#iefix') format('embedded-opentype'),
+        url('GraphikLCG-Medium.woff2') format('woff2'),
+        url('GraphikLCG-Medium.woff') format('woff'),
+        url('GraphikLCG-Medium.ttf') format('truetype'),
+        url('GraphikLCG-Medium.svg#GraphikLCG-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik LCG';
+    src: url('GraphikLCG-Medium_1.eot');
+    src: url('GraphikLCG-Medium_1.eot?#iefix') format('embedded-opentype'),
+        url('GraphikLCG-Medium_1.woff2') format('woff2'),
+        url('GraphikLCG-Medium_1.woff') format('woff'),
+        url('GraphikLCG-Medium_1.ttf') format('truetype'),
+        url('GraphikLCG-Medium_1.svg#GraphikLCG-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik LCG';
+    src: url('GraphikLCG-Bold_1.eot');
+    src: url('GraphikLCG-Bold_1.eot?#iefix') format('embedded-opentype'),
+        url('GraphikLCG-Bold_1.woff2') format('woff2'),
+        url('GraphikLCG-Bold_1.woff') format('woff'),
+        url('GraphikLCG-Bold_1.ttf') format('truetype'),
+        url('GraphikLCG-Bold_1.svg#GraphikLCG-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik LCG';
+    src: url('GraphikLCG-Light.eot');
+    src: url('GraphikLCG-Light.eot?#iefix') format('embedded-opentype'),
+        url('GraphikLCG-Light.woff2') format('woff2'),
+        url('GraphikLCG-Light.woff') format('woff'),
+        url('GraphikLCG-Light.ttf') format('truetype'),
+        url('GraphikLCG-Light.svg#GraphikLCG-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik LCG';
+    src: url('GraphikLCG-Light_1.eot');
+    src: url('GraphikLCG-Light_1.eot?#iefix') format('embedded-opentype'),
+        url('GraphikLCG-Light_1.woff2') format('woff2'),
+        url('GraphikLCG-Light_1.woff') format('woff'),
+        url('GraphikLCG-Light_1.ttf') format('truetype'),
+        url('GraphikLCG-Light_1.svg#GraphikLCG-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik LCG';
+    src: url('GraphikLCG-Regular.eot');
+    src: url('GraphikLCG-Regular.eot?#iefix') format('embedded-opentype'),
+        url('GraphikLCG-Regular.woff2') format('woff2'),
+        url('GraphikLCG-Regular.woff') format('woff'),
+        url('GraphikLCG-Regular.ttf') format('truetype'),
+        url('GraphikLCG-Regular.svg#GraphikLCG-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik LCG';
+    src: url('GraphikLCG-Regular_1.eot');
+    src: url('GraphikLCG-Regular_1.eot?#iefix') format('embedded-opentype'),
+        url('GraphikLCG-Regular_1.woff2') format('woff2'),
+        url('GraphikLCG-Regular_1.woff') format('woff'),
+        url('GraphikLCG-Regular_1.ttf') format('truetype'),
+        url('GraphikLCG-Regular_1.svg#GraphikLCG-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
