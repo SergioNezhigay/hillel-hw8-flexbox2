@@ -104,6 +104,8 @@ body {
 .nav__link {
   font-size: 15px;
   line-height: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
   padding-top: 36px;
   padding-bottom: 39px;
 }
@@ -592,9 +594,11 @@ body {
 .child li {
   width: 100%;
   height: 60px;
+  padding-left: 10px;
+  padding-right: 10px;
   display: flex;
   align-items: center;
-  background-color: rgba(255, 255, 255, 0.9);
+  background-color: #ffdbd2ed;
 }
 
 ul {
@@ -617,6 +621,10 @@ ul ul ul {
 
 .nav .parent li:hover {
   background-color: #ff6236;
+}
+
+.nav li:hover > a {
+  color: #fff;
 }
 
 .expand {
