@@ -23,11 +23,30 @@
             <img src="./images/logo.svg" alt="logo" width="130" />
           </a>
           <ul class="nav-list">
-            <li><a href="#" class="nav__link">Product</a></li>
-            <li><a href="#" class="nav__link">Features</a></li>
-            <li><a href="#" class="nav__link">Pricing</a></li>
-            <li><a href="#" class="nav__link">Case studies</a></li>
-            <li><a href="#" class="nav__link">Resources</a></li>
+            <li class="parent">
+              <a href="#" class="nav__link">Products <span class="expand">+</span></a>
+              <ul class="child">
+                <li class="parent">
+                  <a href="#">Product1 <span class="expand">+</span></a>
+                  <ul class="child">
+                    <li><a href="#">Sub item1</a></li>
+                    <li><a href="#">Sub item2</a></li>
+                  </ul>
+                </li>
+                <li class="parent">
+                  <a href="#">Product2 <span class="expand">+</span></a>
+                  <ul class="child">
+                    <li><a href="#">Sub item3</a></li>
+                    <li><a href="#">Sub item4</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+
+            <li class="parent"><a href="#" class="nav__link">Features</a></li>
+            <li class="parent"><a href="#" class="nav__link">Pricing</a></li>
+            <li class="parent"><a href="#" class="nav__link">Case studies</a></li>
+            <li class="parent"><a href="#" class="nav__link">Resources</a></li>
           </ul>
           <div class="btns">
             <a href="#" class="button button--nav">Log in</a>
